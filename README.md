@@ -6,7 +6,9 @@ One of my first apps, all code is in `MainWindow.xaml.cs`
 
 ## Demo
 
+![vid0](https://i.imgur.com/NF9iyqu.gif)
+
 ![vid](https://i.imgur.com/QANX0lc.gif)
 
 
-### [Full video](https://i.imgur.com/zelGp5B.mp4)
+### [Longer video](https://i.imgur.com/zelGp5B.mp4)
